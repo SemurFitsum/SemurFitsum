@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SemurFitsum
 - 👀 I’m interested in Web Development and Data Analysis   
+- 🌱 I’m working on Object Oriented Programming in C#
 - 🌱 I’m working on ASP.NET Core 3.1 and Entity Framework
 - 🌱 I'm working on ASP.NET Core 5 Web API Development
 - 🌱 I'm working on .NET Core MicroServices - (.NET 6 MVC)
