@@ -5,6 +5,7 @@
 - 🌱 I'm working on ASP.NET Core 5 Web API Development
 - 🌱 I'm working on .NET Core MicroServices - (.NET 6 MVC)
 - 🌱 I'm working on HTML5 and CSS3
+- 🌱 I'm working on Umbraco CMS v8.0 and v11.4.0
 - 💞️ I’m looking to collaborate on ASP.NET Core 3.1, 5, .NET 6
 - 📫 How to reach me on my email semur.fitsum@gmail.com
 
